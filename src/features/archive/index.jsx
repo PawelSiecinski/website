@@ -1,0 +1,1 @@
+export {default as ArchivePage} from './pages/Archive'
